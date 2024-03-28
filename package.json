@@ -1,0 +1,33 @@
+{
+  "name": "fami-check-balance-main",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thanhngan1/fami-check-balance-main.git"
+  },
+  "keywords": [
+    "fami-check-balance-main",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "thanhngan1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thanhngan1/fami-check-balance-main/issues"
+  },
+  "homepage": "https://github.com/thanhngan1/fami-check-balance-main#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "fami-gas-convert-main": "1.0.0"
+
+  }
+}
